@@ -1,7 +1,6 @@
 # Advise-Generator-App
 Advise-Generator-App (Frontend Mentor Challenge)
-
-To-Do-List App project from Angela Yu's Course using (HTML, CSS, Bootstrap, JavaScript, Node.js, Express,js, and EJS.) 
+e using (HTML, CSS, Bootstrap, JavaScript, Node.js, Express,js, and EJS.) 
 
 This is a project which uses the (Mailchimp API to make a NEWSLETTER webapp where you just signup for the newsletter using your details like firstname ,lastname and email address.)
 
