@@ -1,5 +1,8 @@
 # Advise-Generator-App
-Advise-Generator-App (Frontend Mentor Challenge) using (HTML, CSS, Bootstrap, JavaScript, Node.js, Express,js, and EJS.)
+Advise-Generator-App from Frontend Mentor (Built using HTML, CSS, JavaScript)
+
+## Website Link
+Link: 
 
 ## 1. 1st Landing page (For personal tasks)
 
@@ -18,14 +21,8 @@ When the status code is 200, whenever the server was able to post the data to Ma
 
 ![2023-03-15 (2)](https://user-images.githubusercontent.com/123357802/225306125-6f2d83a7-f1f4-483c-ab2c-1a6c511b9391.png)
 
- 
 
-## Website Link
-According to the course, I should use free Heroku account to host this landing page, but since now Heroku does not provide free hosting anymore, I had to find other hosting services like Render. But I tried uploading there and it failed to be deployed.
 
-![image](https://user-images.githubusercontent.com/123357802/225561700-9f56ef2d-71f2-41db-ac83-01b3e2e2febb.png)
-
-If anyone could help me out with this problem, I would be beyond grateful!!!!!
 
 #### Note:
-> Built usingHTML, CSS, Bootstrap, JavaScript, Node.js, Express,js, and EJS.
+> Built using HTML, CSS & JavaScript
