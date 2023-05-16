@@ -21,13 +21,6 @@ Whenever we enter the details in the signup form and submit the details then a p
 ![2023-03-15 (5)](https://user-images.githubusercontent.com/123357802/225306054-885e6e34-7ce3-469e-ac65-fcd088080ca9.png)
 
 
-## 3. Crossing up done tasks 
-
-When the status code is 200, whenever the server was able to post the data to Mailchimp API then it returns the 200 ok status. and when 200 status is returned then express returns "success.html" file.
-
-![2023-03-15 (2)](https://user-images.githubusercontent.com/123357802/225306125-6f2d83a7-f1f4-483c-ab2c-1a6c511b9391.png)
-
-
 
 
 #### Note:
