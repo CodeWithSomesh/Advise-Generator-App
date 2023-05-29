@@ -23,5 +23,7 @@ https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges
 
 #### Note:
 > Built using HTML, CSS & JavaScript
+> 
 > Implemented Arrow Funtions and Async Await Funtions
+> 
 > Fetched API from ?
