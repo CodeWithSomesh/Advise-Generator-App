@@ -15,17 +15,19 @@
   <div class="advise-card">
 
     <!-- Advice ID goes here -->
-    <h6 class="advise-id">ADVICE #</h6>
+    <h6 id="adviseID"></h6>
 
     <!-- Advice text goes here -->
-    <q class="quote">Life is beautiful!!!</q>
-
+    <div class="quote-container">
+      <q id="quote"></q>
+    </div>
+   
     <img class='divider' src="images/pattern-divider-desktop.svg" alt="Divider">
 
-    
-    <div class="button-div">
 
-      <button class="button">
+    <div class="button-div" >
+
+      <button onclick="fetchAdvise()" id="button">
         <img class="button-img" src="images/icon-dice.svg" alt="button image">
       </button>
 
@@ -34,10 +36,6 @@
     
   </div>
 
-  
-
-  
-  
-  
+  <script src="app.js"></script>
 </body>
 </html>
