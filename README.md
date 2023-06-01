@@ -3,7 +3,7 @@ Link: https://advise-generator-app.vercel.app/
 
 <br>
 
-# Frontend Mentor - Advise Generator App
+## Frontend Mentor - Advise Generator App
 
 ![Design preview for the Sunnyside agency landing page coding challenge](./design/desktop-preview.jpg)
 
